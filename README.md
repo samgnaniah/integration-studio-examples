@@ -1,6 +1,6 @@
 # Anypoint Conversion Examples
 
-This repository contains a set of WSO2 Integration Samples for developers with prior experience in MuleSoft products. To make things easier we have created a set of samples similar to what you see in Mulesoft [Anypoint Integration Examples repository](https://github.com/mulesoft/anypoint-examples). In addition, we have integration samples covering the API management as well as integration use cases.
+This repository contains a set of WSO2 Integration Samples for developers with prior experience in MuleSoft products. These samples are similar to what you see in [MuleSoft Anypoint Integration Examples repository](https://github.com/mulesoft/anypoint-examples). These are created to make it easier for developers who are familiar with MuleSoft products to use WSO2 products. In addition, we have integration samples covering API Management as well as integration use cases.
 
 ## Before you begin
  
@@ -8,9 +8,9 @@ This repository contains a set of WSO2 Integration Samples for developers with p
     ```bash
     $ git clone https://github.com/wso2/integration-studio-examples
     ```
-- Download [WSO2 Integration Studio](https://wso2.com/integration/integration-studio/) to follow along these samples.
+- Download [WSO2 Integration Studio](https://wso2.com/integration/integration-studio/) to try out these samples.
 
-> NOTE: Each sample resides in its own directory with a README.md file with sample description and supporting material to follow along each example.
+> NOTE: Each sample resides in its own directory with a README.md file with a description and supporting material to try out each example.
 
 ## Overview
 
